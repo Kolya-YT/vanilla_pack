@@ -1,0 +1,7 @@
+{
+  "demandOnClientMessage": "У вас нет отчетов об отсутствии чата, и этот сервер настроен так, чтобы требовать его на клиенте!",
+  "demandOnClient": false,
+  "convertToGameMessage": true,
+  "addQueryData": true,
+  "enableDebugLog": false
+}
