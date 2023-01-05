@@ -1,8 +1,8 @@
 {
 	"flightMode": "DEFAULT",
-	"interactionMode": "CAMERA",
-	"horizontalSpeed": 1.0,
-	"verticalSpeed": 1.0,
+	"interactionMode": "PLAYER",
+	"horizontalSpeed": 2.0,
+	"verticalSpeed": 2.0,
 	"noClip": true,
 	"disableOnDamage": true,
 	"allowInteract": false,

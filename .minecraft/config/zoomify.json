@@ -1,10 +1,10 @@
 {
     "zoomify_gui_category_behaviour": {
         "zoomify_gui_initialzoom_name": 4,
-        "zoomify_gui_zoomintime_name": 0.7000000000000001,
-        "zoomify_gui_zoomouttime_name": 0.7000000000000001,
-        "zoomify_gui_zoomintransition_name": 11,
-        "zoomify_gui_zoomouttransition_name": 11,
+        "zoomify_gui_zoomintime_name": 0.2,
+        "zoomify_gui_zoomouttime_name": 0.5,
+        "zoomify_gui_zoomintransition_name": 0,
+        "zoomify_gui_zoomouttransition_name": 1,
         "zoomify_gui_affecthandfov_name": true,
         "zoomify_gui_retainzoomsteps_name": false
     },
@@ -24,7 +24,7 @@
     "zoomify_gui_category_spyglass": {
         "zoomify_gui_spyglassbehaviour_name": 0,
         "zoomify_gui_spyglassoverlayvisibility_name": 0,
-        "zoomify_gui_spyglasssoundbehaviour_name": 0
+        "zoomify_gui_spyglasssoundbehaviour_name": 1
     },
     "zoomify_gui_category_secondary": {
         "zoomify_gui_secondaryzoomamount_name": 4,
