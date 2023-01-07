@@ -3,12 +3,12 @@ filename = "blur-2.6.1.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/NK39zBp2/versions/bEtdkEbI/blur-2.6.1.jar"
-hash-format = "sha512"
-hash = "a23df76ad58c5fe33d0fc9847dc450f43778244d6d72678bec1f2c6476058e04030171fee205246c6dad634cff1fcfa88e73ff742b2a746de5a8b839b1c53f80"
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6ba9a8b9d88a0d3b5d15753031df475dbe16a4b1"
 
 [update]
-[update.modrinth]
-mod-id = "NK39zBp2"
-version = "bEtdkEbI"
+[update.curseforge]
+file-id = 4174716
+project-id = 393563
